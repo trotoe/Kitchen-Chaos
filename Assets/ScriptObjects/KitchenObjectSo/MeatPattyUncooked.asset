@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75d7347c7edf7a542af4d71ae6f47fa4, type: 3}
+  m_Name: MeatPattyUncooked
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 8932292557031237860, guid: b113ae53d5e7ff347a5c5a6364c22170, type: 3}
+  sprite: {fileID: 21300000, guid: aa1bacc24dde76e47b2ec0dd4e82385b, type: 3}
+  name: "\u751F\u8089\u6392"
+  type: 0
+  height: 0.064
+  priority: 3

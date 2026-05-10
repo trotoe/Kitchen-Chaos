@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5db0ccc91427db4ea04dd7ae47e77ba, type: 3}
+  m_Name: Cutting Recipe List So
+  m_EditorClassIdentifier: Assembly-CSharp::CuttingRecipeListSo
+  cuttingRecipeList:
+  - input: {fileID: 11400000, guid: 69e67807173199e48abb4fe36dbf144e, type: 2}
+    output: {fileID: 11400000, guid: 7f263ecf5e49cbd49b9d6ab937111ff4, type: 2}
+    cuttingCountMax: 3
+  - input: {fileID: 11400000, guid: 858708b423d9461439b3ca0b4b8278d4, type: 2}
+    output: {fileID: 11400000, guid: 14daf72e225eccc4aa525a08deb8cd4c, type: 2}
+    cuttingCountMax: 4
+  - input: {fileID: 11400000, guid: 93e9ee29004c8bf4aa7fce25bedad047, type: 2}
+    output: {fileID: 11400000, guid: 7ea0ad5b03abaec4aac95aadde8678d5, type: 2}
+    cuttingCountMax: 5
